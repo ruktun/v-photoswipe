@@ -11,13 +11,13 @@
         <div class='pswp__top-bar'>
           <div class='pswp__counter'/>
           <button class='pswp__button pswp__button--close'
-            title='关闭 (Esc)'/>
+            title='閉じる (Esc)'/>
           <button class='pswp__button pswp__button--share'
-            title='分享'/>
+            title='シェア'/>
           <button class='pswp__button pswp__button--fs'
-            title='全屏切换'/>
+            title='フルスクリーン'/>
           <button class='pswp__button pswp__button--zoom'
-            title='放大/缩小'/>
+            title='拡大／縮小'/>
           <div class='pswp__preloader'>
             <div class='pswp__preloader__icn'>
               <div class='pswp__preloader__cut'>
@@ -31,9 +31,9 @@
           <div class='pswp__share-tooltip'/>
         </div>
         <button class='pswp__button pswp__button--arrow--left'
-          title='上一张 (arrow left)'/>
+          title='次へ'/>
         <button class='pswp__button pswp__button--arrow--right'
-          title='下一张 (arrow right)'/>
+          title='前へ'/>
         <div class='pswp__caption'>
           <div class='pswp__caption__center'/>
         </div>
